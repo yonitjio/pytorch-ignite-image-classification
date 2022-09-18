@@ -4,7 +4,9 @@
 
 This is the image classification template by Code-Generator using `resnet18` model and `cifar10` dataset from TorchVision and training is powered by PyTorch and PyTorch-Ignite.
 
-> Modified to use `ImageFolder` from `torchvision`.
+## Modification
+The original codes are modified to use `ImageFolder` from `torchvision`. See `data.py`.
+
 
 ## Getting Started
 
