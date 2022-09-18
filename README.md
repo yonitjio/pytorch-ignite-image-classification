@@ -7,6 +7,10 @@ This is the image classification template by Code-Generator using `resnet18` mod
 ## Modification
 The original codes are modified to use `ImageFolder` from `torchvision`. See `data.py`.
 
+For more information visit:
+* [Pytorch Ignite](https://github.com/pytorch/ignite)
+* [Code Generator](https://github.com/pytorch-ignite/code-generator)
+
 
 ## Getting Started
 
